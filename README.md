@@ -11,4 +11,7 @@ levantar libs extras
 npm install primeng@17.18.9 primeflex@3.3.1 primeicons@7.0.0 sweetalert2@11.15.10
 
 Dentro de capturas encontrara la informacion de la interfaz grafica
+
 direccion de capturas API/Capturas
+
+.Net 8 esta realizado en proyecto de C#
