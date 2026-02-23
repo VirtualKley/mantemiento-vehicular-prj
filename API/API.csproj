@@ -26,6 +26,7 @@
 
   <ItemGroup>
     <Folder Include="Capturas\" />
+    <Folder Include="Grabaciones\" />
   </ItemGroup>
 
 </Project>
