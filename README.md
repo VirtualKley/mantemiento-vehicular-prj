@@ -18,6 +18,6 @@ Dentro de capturas encontrara la informacion de la interfaz grafica
 
 SOLO falto el formulario en angular, las validaciones esta realizadas en el back en el servicio
 
-Los videos se encuentran en API/Grabaciones
+Los videos se encuentran en API/Grabaciones dentro del back y front estan comprimidos porque el video pesa demasiado, favor descomprimir
 
 direccion de capturas API/Capturas
