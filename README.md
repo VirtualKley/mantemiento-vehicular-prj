@@ -15,3 +15,7 @@ Dentro de capturas encontrara la informacion de la interfaz grafica
 direccion de capturas API/Capturas
 
 .Net 8 esta realizado en proyecto de C#
+
+
+
+SOLO falto el formulario en angular, las validaciones esta realizadas en el back en el servicio
